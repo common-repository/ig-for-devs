@@ -1,0 +1,11 @@
+{
+    "require": {
+        "cosenary/instagram": "dev-master"
+    },
+    "repositories": [
+      	{
+	        "url": "https://github.com/florianbeer/Instagram-PHP-API.git",                                                                                                           
+	        "type": "git"                                                                                                                                                            
+	    }
+    ]
+}
